@@ -1,0 +1,7 @@
+{
+    "agent_name": "tweak_titans",
+    "url": "https://github.com/hanras97/tweak_titans.git",
+    "capabilities": ["simulated", "real"],
+    "parameters": [
+    ]
+}

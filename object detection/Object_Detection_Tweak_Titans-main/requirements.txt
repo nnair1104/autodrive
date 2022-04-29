@@ -1,0 +1,11 @@
+numpy
+opencv-python
+tqdm
+pyyaml
+webcolors
+matplotlib
+torch
+torchvision
+webcolors
+visdom
+mean-average-precision
